@@ -1,0 +1,13 @@
+using System;
+
+try
+{
+    Console.WriteLine("Do something 1");
+
+
+    Console.WriteLine("Program finished successfully.");
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"An error occurred: {ex.Message}");
+}
