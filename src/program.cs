@@ -2,7 +2,7 @@ using System;
 
 try
 {
-    Console.WriteLine("Do something 1");
+    Console.WriteLine("Do something 1 - branch test");
 
 
     Console.WriteLine("Program finished successfully.");
